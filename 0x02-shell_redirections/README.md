@@ -1,1 +1,1 @@
-What about 2?
+script that displays a confused smiley
