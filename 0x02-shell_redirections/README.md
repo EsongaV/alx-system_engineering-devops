@@ -1,1 +1,1 @@
-script that displays the 10 newest files in the current directory
+ script that prints “Hello, World”, followed by a new line to the standard output.
