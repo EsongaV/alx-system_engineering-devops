@@ -1,1 +1,1 @@
- script that prints “Hello, World”, followed by a new line to the standard output 
+script that takes a list of words as input and prints only words that appear exactly once.
